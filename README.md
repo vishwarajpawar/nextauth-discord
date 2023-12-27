@@ -1,2 +1,3 @@
 # nextauth-discord
-this is implementation of next auth using outh discrod token
+using nextauthjs to implement an Oauth2 with discord id
+using Prisma adapter with MongoDB and discord auth provider.
